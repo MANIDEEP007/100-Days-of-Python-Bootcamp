@@ -42,13 +42,9 @@ print("Your mission is to find the treasure.")
 
 #Write your code below this line 👇
 choice = input('You are at a crossroad. Where do you want to go? Type "left" or "right":')
-if choice.lower() == "right":
-  print("You fell into a hole. Game Over.")
-else:
+if choice.lower() == "left":
   choice = input('You have come to a lake. There is an island in the middle of the lake. Type "wait" to wait for a boat. Type "swim" to swim across.:')
-  if choice.lower() == "swim":
-    print("You get attacked by an angry trout. Game Over." )
-  else:
+  if choice.lower() == "wait":
     choice = input("You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue. Which colour do you choose?:")
     if choice.lower() == "red":
       print("It's a room full of fire. Game Over.")
@@ -58,3 +54,7 @@ else:
       print("You found the treasure! You Win!")
     else:
       print("You chose a door that doesn't exist. Game Over.")
+  else:
+    print("You get attacked by an angry trout. Game Over." )
+else:
+  print("You fell into a hole. Game Over.")
