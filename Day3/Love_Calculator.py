@@ -1,7 +1,7 @@
 '''
 To work out the love score between two people:
-    Take both people's names and check for the number of times the letters in the word TRUE occurs. Then check for the number of times the letters in the word LOVE 
-    occurs. Then combine these numbers to make a 2 digit number
+    Take both people's names and check for the number of times the letters in the word TRUE occurs. Then check for the number of times the letters in the word 
+    LOVE occurs. Then combine these numbers to make a 2 digit number
 Algorithm URL: https://www.buzzfeed.com/ariannarebolini/what-are-the-chances-your-crush-is-actually-your-true-love
 '''
 # 🚨 Don't change the code below 👇
