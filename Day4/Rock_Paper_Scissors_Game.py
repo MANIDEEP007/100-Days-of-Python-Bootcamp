@@ -56,7 +56,7 @@ print(sym_dict[comp_choice])
 
 #Comparision & Determing the result
 if user_choice > 2 or user_choice < 0:
-  print("You Lose!!")
+  print("You choose an Invalid choice. You Lose!!")
 elif user_choice == comp_choice:
   print("You Draw!!")
 elif user_choice == 0 and comp_choice == 2:
