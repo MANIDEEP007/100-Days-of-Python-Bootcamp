@@ -5,3 +5,4 @@ Works done as a part of learning of https://www.udemy.com/course/100-days-of-cod
 - [Day 2](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/Day2) - Understanding Data Types & Manipulating Strings
 - [Day 3](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/Day3) - Control Flow & Logical Operators
 - [Day 4](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/Day4) - Randomisation & Python Lists
+- [Day 5](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/Day5) - Python Loops
