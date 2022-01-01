@@ -15,14 +15,14 @@ print(student_scores)
 # 🚨 Don't change the code above 👆
 
 #Write your code below this row 👇
-#Initialize the highest height to None
-max_height =  None
+#Initialize the highest score to None
+max_score =  None
 
 #Iterate over student_scores list
-for height in student_scores:
+for score in student_scores:
   #Update Maximum Height when its None or less than current height
-  if max_height is None or height > max_height:
-    max_height = height
+  if max_score is None or score > max_score:
+    max_score = score
 
-#Print Maximum Height
-print("The highest score in the class is: {}".format(max_height))
+#Print Maximum Score
+print("The highest score in the class is: {}".format(max_score))
