@@ -10,3 +10,6 @@ Works done as a part of learning of https://www.udemy.com/course/100-days-of-cod
 - [Day 7](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/Day7) - Hangman Game
 - [Day 8](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/Day8) - Function Parameters & Caesar Cipher
 - [Day 9](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/Day9) - Dictonaries, Nesting & Secret Auction
+- [Day 10](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/DayNo_10) - Functions with outputs
+- [Day 11](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/DayNo_11) - The Blackjack Capstone project
+- [Day 12](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/DayNo_12) - Number Guessing Game
