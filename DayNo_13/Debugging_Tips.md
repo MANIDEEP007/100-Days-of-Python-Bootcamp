@@ -1,0 +1,11 @@
+## Debugging Tips
+- Describe the problem - Understand what it does
+- Reproduce the bug - Identify what's breaking the functionality
+- Think like a computer & evaluate each line
+- Watch Red Lines in editors and search console error messages in StackOverflow
+- Use print() statements to understand the flow of data in program
+- To use the tools like [Python Tutor](https://pythontutor.com/visualize.html#mode=edit) for debugging
+- Take a break, nap when you are stressful
+- Ask a friend if none of the above things worked
+- Run the code periodically for each step so that it's easy to debug
+- Ask Stackoverflow - Preferably use when you have unique issues
