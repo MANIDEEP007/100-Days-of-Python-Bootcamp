@@ -13,3 +13,5 @@ Works done as a part of learning of https://www.udemy.com/course/100-days-of-cod
 - [Day 10](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/DayNo_10) - Functions with outputs
 - [Day 11](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/DayNo_11) - The Blackjack Capstone project
 - [Day 12](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/DayNo_12) - Number Guessing Game
+- [Day 13](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/DayNo_13) - Debugging - Finding and Fixing errors in code
+- [Day 14](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/DayNo_14) - Higher & Lower game
