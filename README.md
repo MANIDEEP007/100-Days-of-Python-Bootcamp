@@ -15,3 +15,5 @@ Works done as a part of learning of https://www.udemy.com/course/100-days-of-cod
 - [Day 12](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/DayNo_12) - Number Guessing Game
 - [Day 13](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/DayNo_13) - Debugging - Finding and Fixing errors in code
 - [Day 14](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/DayNo_14) - Higher & Lower game
+- [Day 15](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/DayNo_15) - IDE & Coffe Machine Project
+- [Day 16](https://github.com/MANIDEEP007/100-Days-of-Python-Bootcamp/tree/main/DayNo_16) - Coffee Machine Project using OOPS
